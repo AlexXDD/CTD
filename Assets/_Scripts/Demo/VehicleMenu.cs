@@ -13,7 +13,7 @@ namespace RVP
         public CameraControl cam;
         public Vector3 spawnPoint;
         public Vector3 spawnRot;
-        public GameObject[] vehicles;
+        public GameObject vehicle;
         public GameObject chaseVehicle;
         public GameObject chaseVehicleDamage;
         float chaseCarSpawnTime;
@@ -98,9 +98,9 @@ namespace RVP
             }
         }
 
-        public void SpawnVehicle(int vehicle)
+        public void SpawnVehicle(GameObject vehicle)
         {
-            newVehicle = Instantiate(vehicles[vehicle], spawnPoint, Quaternion.LookRotation(spawnRot, GlobalControl.worldUpDir)) as GameObject;
+            newVehicle = Instantiate(vehicle, spawnPoint, Quaternion.LookRotation(spawnRot, GlobalControl.worldUpDir)) as GameObject;
             cam.target = newVehicle.transform;
             cam.Initialize();
             vp = newVehicle.GetComponent<VehicleParent>();
