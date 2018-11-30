@@ -1,0 +1,1672 @@
+newmtl qiuming_fenc_00
+Ka 0.4 0.4 0.4
+Kd 0.3 0.3 0.3
+Ks 8 8 8
+Ns 400
+illum 2
+map_Kd texture\qiuming_fenc_00.dds
+
+newmtl conea_guidepost58
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost58.dds
+
+newmtl conea_op
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost57.dds
+
+newmtl conea_guidepost39
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost39.dds
+
+newmtl wall_06
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wall_06.dds
+
+newmtl track_15
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_15.dds
+
+newmtl track_14
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_14.dds
+
+newmtl track_13
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_13.dds
+
+newmtl track_12
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_12.dds
+
+newmtl track_11
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_11.dds
+
+newmtl track_03
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_03.dds
+
+newmtl qiuming_ground_07
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\qiuming_ground_07.dds
+
+newmtl track_05
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_05.dds
+
+newmtl track_06
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_06.dds
+
+newmtl twal_logo09
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wall_logo09.dds
+
+newmtl rock_01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\rock_01.dds
+
+newmtl track_04
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\track_04.dds
+
+newmtl track_18
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\track_18.dds
+
+newmtl track_17
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\track_17.dds
+
+newmtl track_16
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\track_16.dds
+
+newmtl grass_ground_06
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\grass_02.dds
+
+newmtl twal_logo08
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wall_logo08.dds
+
+newmtl road_rock
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\rock_00.dds
+
+newmtl wall_04
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\qiuming_wall_04.dds
+
+newmtl track_20
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_20.dds
+
+newmtl twal_qi04
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\wall_qi04.dds
+
+newmtl twal_logo06
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\wall_logo06.dds
+
+newmtl twal_logo07
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\wall_logo07.dds
+
+newmtl twal_logo05
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\wall_logo05.dds
+
+newmtl twal_qi03
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\wall_qi03.dds
+
+newmtl track_08
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_08.dds
+
+newmtl qiuming_ground_03
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\wall_04.dds
+
+newmtl wall_03
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wall_03.dds
+
+newmtl qiuming_ground_04
+Ka 0.3 0.3 0.3
+Kd 0.25 0.25 0.25
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\qiuming_ground_04.dds
+
+newmtl twal_logo04
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wall_logo04.dds
+
+newmtl twal_logo01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wall_logo01.dds
+
+newmtl twal_logo03
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wall_logo03.dds
+
+newmtl track_07
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_07.dds
+
+newmtl track_02
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_04.dds
+
+newmtl track_09
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_09.dds
+
+newmtl rdta_19
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\track_19.dds
+
+newmtl track_10
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_10.dds
+
+newmtl twal_logo02
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wall_logo02.dds
+
+newmtl road_xd
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wall_01.dds
+
+newmtl twal_qi02
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wall_qi02.dds
+
+newmtl twal_qi01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wall_qi01.dds
+
+newmtl bmpb_xian
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_xian.dds
+
+newmtl track_edge02
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\road_edge02.dds
+
+newmtl rmbl_edge01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\road_edge01.dds
+
+newmtl bmpa_01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\track_01.dds
+
+newmtl rdax_edge00
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\road_edge00.dds
+
+newmtl road_min01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.05 0.05 0.05
+Ns 100
+illum 2
+map_Kd texture\track_01.dds
+
+newmtl logo01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\logo01.dds
+
+newmtl guidepost_jinzhi01
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+illum 2
+map_Kd texture\guidepost_jinzhi00.dds
+
+newmtl guidepost_jinzhi02
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+illum 2
+map_Kd texture\guidepost_jinzhi01.dds
+
+newmtl guidepost_jinzhi03
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.2 0.2 0.2
+Ns 1
+illum 2
+map_Kd texture\guidepost_jinzhi02.dds
+
+newmtl guidepost_jiantou02
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wood01.dds
+
+newmtl guidepost_jiantou01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\wood.dds
+
+newmtl guidepost_baijia01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\baijia01.dds
+
+newmtl guidepost_baijia00
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\baijia00.dds
+
+newmtl safer
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ns 0
+illum 2
+map_Kd texture\road_edge00.dds
+
+newmtl skid04
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\skidslong04.dds
+
+newmtl shuye
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\shuyue01.dds
+
+newmtl skid02
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\skidslong02.dds
+
+newmtl skid01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\skidslong01.dds
+
+newmtl skid03
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\skidslong03.dds
+
+newmtl 19_-_default
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\pole_line.dds
+
+newmtl pole06
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\pole06.dds
+
+newmtl pole05
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\pole05.dds
+
+newmtl pole04
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\pole04.dds
+
+newmtl pole03
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\pole03.dds
+
+newmtl pole02
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\pole02.dds
+
+newmtl pole01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\pole01.dds
+
+newmtl guidepost32
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost32.dds
+
+newmtl guidepost31
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost31.dds
+
+newmtl guidepost23
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost23.dds
+
+newmtl guidepost49
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost49.dds
+
+newmtl guidepost53
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost53.dds
+
+newmtl guidepost12
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost12.dds
+
+newmtl guidepost59
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost59.dds
+
+newmtl guidepost28
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost28.dds
+
+newmtl guidepost02
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost02.dds
+
+newmtl guidepost07
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost07.dds
+
+newmtl guidepost34
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost34.dds
+
+newmtl guidepost56
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost56.dds
+
+newmtl guidepost61
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost61.dds
+
+newmtl guidepost62
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost62.dds
+
+newmtl guidepost63
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost63.dds
+
+newmtl guidepost41
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost68.dds
+
+newmtl guidepost19
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost19.dds
+
+newmtl guidepost08
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost08.dds
+
+newmtl guidepost43
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost43.dds
+
+newmtl guidepost16
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost16.dds
+
+newmtl guidepost26
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost26.dds
+
+newmtl guidepost45
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost45.dds
+
+newmtl guidepost37
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost37.dds
+
+newmtl guidepost38
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost38.dds
+
+newmtl guidepost67
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost67.dds
+
+newmtl guidepost66
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost66.dds
+
+newmtl guidepost18
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost18.dds
+
+newmtl guidepost52
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost52.dds
+
+newmtl guidepost60
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost60.dds
+
+newmtl guidepost36
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost36.dds
+
+newmtl guidepost11
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost11.dds
+
+newmtl guidepost20
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost20.dds
+
+newmtl guidepost14
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost14.dds
+
+newmtl guidepost13
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost13.dds
+
+newmtl guidepost22
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost22.dds
+
+newmtl guidepost21
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost21.dds
+
+newmtl guidepost06
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost06.dds
+
+newmtl guidepost25
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost25.dds
+
+newmtl guidepost65
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost65.dds
+
+newmtl guidepost54
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost54.dds
+
+newmtl guidepost40
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost40.dds
+
+newmtl guidepost58
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost58.dds
+
+newmtl lamp_high_g01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\lamp_high_g01.dds
+
+newmtl lamp_high_d01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\lamp_high_d01.dds
+
+newmtl lamp_high_c02
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\lamp_high_c02.dds
+
+newmtl lamp_high_c01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\lamp_high_c01.dds
+
+newmtl guidepost35
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost35.dds
+
+newmtl guidepost15
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost15.dds
+
+newmtl guidepost51
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost51.dds
+
+newmtl guidepost50
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost50.dds
+
+newmtl conea_w
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost36.dds
+
+newmtl guidepost10
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost10.dds
+
+newmtl conea_guidepost25
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost25.dds
+
+newmtl conea_op2
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost40.dds
+
+newmtl guidepost64
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost64.dds
+
+newmtl guidepost01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0.2 0.2 0.2
+Ns 100
+illum 2
+map_Kd texture\guidepost01.dds
+
+newmtl house_old08
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old08.dds
+
+newmtl house_old06
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old06.dds
+
+newmtl house_old07
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old07.dds
+
+newmtl house_old05
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old05.dds
+
+newmtl house_old04
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old04.dds
+
+newmtl house_phone03
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_phone03.dds
+
+newmtl house_phone02
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_phone02.dds
+
+newmtl house_phone01
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_phone01.dds
+
+newmtl house_phone04
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_phone04.dds
+
+newmtl house_white05
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_white05.dds
+
+newmtl house_white06
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_white06.dds
+
+newmtl house_white03
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_white03.dds
+
+newmtl house_white04
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_white04.dds
+
+newmtl house_white02
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_white02.dds
+
+newmtl house_white01
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_white01.dds
+
+newmtl house_red05
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_red04.dds
+
+newmtl house_red03
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_red03.dds
+
+newmtl house_red04
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_red04.dds
+
+newmtl house_red02
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_red02.dds
+
+newmtl house_red01
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_red01.dds
+
+newmtl house_old10
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old10.dds
+
+newmtl house_old09
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old09.dds
+
+newmtl house_old11
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old11.dds
+
+newmtl house_old12
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old11.dds
+
+newmtl house_old13
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old13.dds
+
+newmtl house_old01
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old01.dds
+
+newmtl house_old02
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old02.dds
+
+newmtl house_old03
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_old03.dds
+
+newmtl house_high01
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_high01.dds
+
+newmtl house_high02
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_high01.dds
+
+newmtl house_high03
+Ka 0.3 0.3 0.3
+Kd 0.1 0.1 0.1
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_high03.dds
+
+newmtl house_high04
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\house_high04.dds
+
+newmtl qiuming_fenc_04
+Ka 0.3 0.3 0.3
+Kd 0.1 0.1 0.1
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\qiuming_fenc_04.dds
+
+newmtl qiuming_fenc_03
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\qiuming_fenc_03.dds
+
+newmtl qiuming_fenc_02
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\qiuming_fenc_02.dds
+
+newmtl qiuming_fenc_01
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+Ns 100
+illum 2
+map_Kd texture\qiuming_fenc_01.dds
+
+newmtl wall_02
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.01 0.01 0.01
+Ns 2
+illum 2
+map_Kd texture\wall_02.dds
+
+newmtl track_01
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\track_01.dds
+
+newmtl twall_02
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\qiuming_fenc_02.dds
+
+newmtl twall045
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\tielian.dds
+
+newmtl material_#102
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\shan.dds
+
+newmtl grass_00
+Ka 0.3 0.3 0.3
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\grass_00.dds
+
+newmtl tree_shan
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree_wall_shan.dds
+
+newmtl tree_wall
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree_wall.dds
+
+newmtl shrub04b
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub_04.dds
+
+newmtl shrub04a
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub_04.dds
+
+newmtl shrub05a
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub_05.dds
+
+newmtl shrub05b
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub_05.dds
+
+newmtl shrub03b
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub_03.dds
+
+newmtl shrub03a
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub_03.dds
+
+newmtl shrub02b
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub_02.dds
+
+newmtl shrub02a
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub_02.dds
+
+newmtl shrubb
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub.dds
+
+newmtl shruba
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub.dds
+
+newmtl shrub01b
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub_01.dds
+
+newmtl shrub01a
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\shrub_01.dds
+
+newmtl tree2d_16
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree08.dds
+
+newmtl tree2d_15
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree08.dds
+
+newmtl tree2d_20
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree10.dds
+
+newmtl tree2d_19
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree10.dds
+
+newmtl tree2d_18
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree09.dds
+
+newmtl tree2d_17
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree09.dds
+
+newmtl tree2d_22
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree11.dds
+
+newmtl tree2d_21
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree11.dds
+
+newmtl tree2d_24
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree12.dds
+
+newmtl tree2d_23
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree12.dds
+
+newmtl tree2d_02
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree01.dds
+
+newmtl tree2d_01
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree01.dds
+
+newmtl tree2d_10
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree05.dds
+
+newmtl tree2d_09
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree05.dds
+
+newmtl tree2d_06
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree03.dds
+
+newmtl tree2d_05
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree03.dds
+
+newmtl tree2d_08
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree04.dds
+
+newmtl tree2d_07
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree04.dds
+
+newmtl tree2d_14
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree07.dds
+
+newmtl tree2d_04
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree02.dds
+
+newmtl tree2d_03
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree02.dds
+
+newmtl tree2d_12
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree06.dds
+
+newmtl tree2d_11
+Ka 0.3 0.3 0.3
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 100
+illum 2
+map_Kd texture\tree06.dds
+
+newmtl material_#103
+Ka 0.3 0.3 0.3
+Kd 0.2 0.2 0.2
+Ks 0 0 0
+Ns 1
+illum 2
+map_Kd texture\tsheet1_d.dds
+
