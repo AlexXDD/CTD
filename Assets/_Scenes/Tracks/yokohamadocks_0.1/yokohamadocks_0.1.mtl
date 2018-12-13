@@ -1,0 +1,1112 @@
+newmtl warehouse_07_c_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_07_c_01_d.dds
+
+newmtl warehouse_07_b_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_07_b_01_d.dds
+
+newmtl warehouse_07_a_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_07_a_01_d.dds
+
+newmtl warehouse_06_b_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_06_b_01_d.dds
+
+newmtl warehouse_06_a_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_06_a_01_d.dds
+
+newmtl warehouse_05_d_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_05_d_01_d.dds
+
+newmtl warehouse_05_c_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_05_c_01_d.dds
+
+newmtl warehouse_05_b_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_05_b_01_d.dds
+
+newmtl warehouse_05_a_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_05_a_01_d.dds
+
+newmtl warehouse_04_a_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_04_a_01_d.dds
+
+newmtl warehouse_03_d_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_03_d_01_d.dds
+
+newmtl warehouse_03_c_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_03_c_01_d.dds
+
+newmtl warehouse_03_b_0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_03_b_03_d.dds
+
+newmtl warehouse_03_a_0
+Ka 0.2 0.2 0.2
+Kd 0.34 0.34 0.34
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_03_a_04_d.dds
+
+newmtl warehouse_02_c_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_02_c_01_d.dds
+
+newmtl warehouse_02_b_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_02_b_01_d.dds
+
+newmtl warehouse_02_a_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_02_a_01_d.dds
+
+newmtl warehouse_01_a_0
+Ka 0.3 0.3 0.3
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\warehouse_05_a_03_d.dds
+
+newmtl trunk
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\pers_01_tr_d.dds
+
+newmtl branches
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\pers_01_fo_d.dds
+
+newmtl crate_wood_b_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\crate_wood_b_01_d.dds
+
+newmtl crate_wood_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\crate_wood_a_01_d.dds
+
+newmtl vending_mach_b_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\vending_machines_a_02_d.dds
+
+newmtl vending_mach_a_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\vending_machines_a_01_d.dds
+
+newmtl veh_recov_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\global_vehicle_recovery_04_01_d.dds
+
+newmtl veh_recov_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\global_vehicle_recovery_03_01_d.dds
+
+newmtl trailer_a_01!3
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\truck_page_01_d.dds
+
+newmtl truck_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\truck_a_01_d.dds
+
+newmtl truck_a_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\truck_a_02_d.dds
+
+newmtl transporter_b_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\transporter_b_01_d.dds
+
+newmtl transporter_b_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\transporter_b_02_d.dds
+
+newmtl road_03
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_track3_vara_d.dds
+
+newmtl roadedge1to4
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_edge1to4_vara_d.dds
+
+newmtl roadedge_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_edgestrip1_d.dds
+
+newmtl rmbl_05
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_track4_vara_d.dds
+
+newmtl rmbl_04
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_track4_varb_d.dds
+
+newmtl roadedge_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_edgestrip2_d.dds
+
+newmtl feature1
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_feature1_d.dds
+
+newmtl roadinf_01
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_infield1_d.dds
+
+newmtl roadedge3to1
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_edge3to1_vara_d.dds
+
+newmtl roadedge1to1
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_edge1to1_d.dds
+
+newmtl roadinf_03
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_infield3_d.dds
+
+newmtl road_01
+Ka 0.4 0.4 0.4
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_track1_d.dds
+
+newmtl tower_01_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\tower_01_a_01_d.dds
+
+newmtl street_lamp_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\street_lamp_a_d.dds
+
+newmtl stor_container_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\global_storage_container_01_01_d.dds
+
+newmtl silo_complex_b_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\silo_complex_a_01_d.dds
+
+newmtl silo_b_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\silo_b_01_d.dds
+
+newmtl silo_b_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\silo_b_02_d.dds
+
+newmtl silo_b_03
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\silo_b_03_d.dds
+
+newmtl silo_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\silo_a_01_d.dds
+
+newmtl silo_a_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\silo_a_02_d.dds
+
+newmtl chev_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\sign_chevron_02_d.dds
+
+newmtl chev_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\chevron01.dds
+
+newmtl sea
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 10
+illum 2
+map_Kd texture\sea1.dds
+
+newmtl parked_cars_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\global_vehicle_parked_cars_01_01_d.dds
+
+newmtl plant_storage_a_
+Ka 0.5 0.5 0.5
+Kd 0.5 0.5 0.5
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\plant_storage_a_01_d.dds
+
+newmtl office_temp_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_temp_a_02_d.dds
+
+newmtl office_temp_a_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_temp_a_01_d.dds
+
+newmtl office_02_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_02_a_01_d.dds
+
+newmtl office_02_a_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_02_a_02_d.dds
+
+newmtl office_01_c_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_01_c_01_d.dds
+
+newmtl office_01_b_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_01_b_01_d.dds
+
+newmtl office_01_b_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_01_b_02_d.dds
+
+newmtl office_01_b_03
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_01_b_03_d.dds
+
+newmtl office_01_b_04
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_01_b_04_d.dds
+
+newmtl office_01_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_01_a_01_d.dds
+
+newmtl office_01_c_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_01_b_02_d.dds
+
+newmtl office_01_c_03
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\office_01_b_03_d.dds
+
+newmtl seabed
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_colourmap_outfield_02.dds
+
+newmtl park
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_track1_d.dds
+
+newmtl harbour
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_outfield_01_d.dds
+
+newmtl road_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_track2_d.dds
+
+newmtl planks_wood_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\crate_wood_a_01_d.dds
+
+newmtl pipes_piles_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\metal_03_d.dds
+
+newmtl crate_metal_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\crate_metal_a_01_d.dds
+
+newmtl crate_metal_a_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\rail_01_d.dds
+
+newmtl logs_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\wood_03_d.dds
+
+newmtl goods_covered_c_
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\goods_covered_a_02_d.dds
+
+newmtl goods_covered_a_
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\goods_covered_a_01_d.dds
+
+newmtl fuel_cylindrical
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\fuel_cylindrical_a_01_d.dds
+
+newmtl fuel_spherical_b
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\fuel_spherical_b_01_d.dds
+
+newmtl fuel_spherical_a
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\fuel_spherical_a_01_d.dds
+
+newmtl fuel_refinery_a_
+Ka 0.54 0.54 0.54
+Kd 0.1 0.1 0.1
+Ks 0.1 0.1 0.1
+Ns 10
+illum 2
+map_Kd texture\fuel_refinery_a_01_d.dds
+
+newmtl forklift_b_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\forklift_b_01_d.dds
+
+newmtl forklift_b_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\forklift_b_02_d.dds
+
+newmtl forklift_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\forklift_a_01_d.dds
+
+newmtl ferris_wheel_a_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\ferris_wheel_01_d.dds
+
+newmtl crane_b_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\crane_b_01_d.dds
+
+newmtl crane_b_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\crane_b_02_d.dds
+
+newmtl crane_b_03
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\crane_b_03_d.dds
+
+newmtl digger_02_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\digger_a_01_d.dds
+
+newmtl digger_02_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\digger_a_02_d.dds
+
+newmtl decals_d
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_01_decals_04_d.dds
+
+newmtl decals_a
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_01_decals_01_d.dds
+
+newmtl decals_b
+Ka 1.5 1.5 1.5
+Kd 1.23 1.23 1.23
+Ks 0.2 0.2 0.2
+Ns 10
+illum 2
+map_Kd texture\yok_01_decals_02_d.dds
+
+newmtl decals_c
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\yok_01_decals_03_d.dds
+
+newmtl contain_group_06
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\containers_a_02_d.dds
+
+newmtl cmwl_blk_white_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\concrete_block_white_01_d.dds
+
+newmtl cmwl_block_red_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\concrete_block_red_01_d.dds
+
+newmtl cmwl_block_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\concrete_block_a_01_d.dds
+
+newmtl complex_01_e_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_e_01_d.dds
+
+newmtl complex_01_e_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_e_02_d.dds
+
+newmtl complex_01_e_03
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_b_03_d.dds
+
+newmtl complex_01_d_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_b_01_d.dds
+
+newmtl complex_01_d_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_d_02_d.dds
+
+newmtl complex_01_d_03
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_b_03_d.dds
+
+newmtl complex_01_c_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_b_01_d.dds
+
+newmtl complex_01_c_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_c_02_d.dds
+
+newmtl complex_01_c_03
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_a_03_d.dds
+
+newmtl complex_01_b_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_b_01_d.dds
+
+newmtl complex_01_b_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_b_02_d.dds
+
+newmtl complex_01_b_03
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_b_03_d.dds
+
+newmtl complex_01_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_a_01_d.dds
+
+newmtl complex_01_a_01!
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_a_03_d.dds
+
+newmtl complex_01_a_04
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\complex_01_a_04_d.dds
+
+newmtl cardbox_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\clutter_box_01_01_d.dds
+
+newmtl cardbox_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\clutter_box_01_02_d.dds
+
+newmtl bridge_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\bridge_a_01_d.dds
+
+newmtl building_tonnex_
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\building_tonnex_a_01_d.dds
+
+newmtl building_tekken_
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\building_tekken_a_04_d.dds
+
+newmtl building_loading
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\building_loading_a_01_d.dds
+
+newmtl function_02_b_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\function_02_b_01_d.dds
+
+newmtl function_02_b_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\function_02_b_02_d.dds
+
+newmtl building_distant
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\building_distant_01_d.dds
+
+newmtl birch_sil_01_tr!
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\birch_sil_01_tr_d.dds
+
+newmtl birch_sil_01_tw
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\birch_fo_01_d.dds
+
+newmtl birch_sil_01_fo!
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\birch_fo_01_d.dds
+
+newmtl crane_a_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\crane_a_01_d.dds
+
+newmtl crane_a_02
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\crane_a_02_d.dds
+
+newmtl crane_a_03
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\crane_a_03_d.dds
+
+newmtl crane_a_04
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\crane_a_04_d.dds
+
+newmtl barrier_white_ra
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\barrier_white_railing_a_d.dds
+
+newmtl barrel_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\global_barrel_01_d.dds
+
+newmtl barrier_gate_a_l
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\barrier_gate_a_d.dds
+
+newmtl Default
+Ka 0.7 0.7 0.7
+Kd 0.7 0.7 0.7
+Ks 1 1 1
+Ns 10
+illum 2
+map_Kd texture\yokohama_docks_wires_d.dds
+
+newmtl barrier_tall_fen
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\barrier_tall_fence_a_d.dds
+
+newmtl barrier_fence
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\barrier_fence_a_d.dds
+
+newmtl grdr_01
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+illum 2
+map_Kd texture\armco_01_d.dds
+
